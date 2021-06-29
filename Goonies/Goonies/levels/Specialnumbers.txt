@@ -1,0 +1,27 @@
+-1 skull
+-2 jumping skull
+-3 stalactite
+-4 waterdrop
+-5 waterfall
+-6 startdoor
+-7 lock & closeddoor w potion
+-8 lock & closeddoor w friend
+-9 double lock & red closeddoor w friend
+-10 key
+-11 sac en casc groc
+-12 sac en sabates
+-13 sac en xubasquero gris
+-14 sac en xubasquero blau
+-15 sac en llibre verd
+-16 sac en pocio
+-17 blue stalactite
+-18 lock & blue closeddoor w potion
+-19 lock & blue closeddoor w friend
+-20 green stalactite
+-21 lock & green closeddoor w potion
+-22 lock & green closeddoor w friend
+-23 double lock & green closeddoor w friend
+-24 enddoor
+-30 Pandora
+
+-ABXXYY tp to level A scene B at pos XX YY

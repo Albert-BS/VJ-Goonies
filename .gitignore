@@ -1,0 +1,39 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+/Goonies/Goonies/Debug
+/Goonies/Goonies/Release
+/Goonies/Debug
+/Goonies/Release
+/Goonies/.vs/Goonies/v14
+/Goonies/Goonies.VC.VC.opendb
+/Goonies/Goonies.VC.db
+/Goonies.VC.db
+/.vs/Goonies/v14/.suo
